@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.4",
     "@datastructures-js/graph": "^3.0.1",
     "@swimlane/ngx-graph": "^6.2.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "cytoscape": "latest",
     "cytoscape-edgehandles": "^3.6.0",
     "graph-data-structure": "^1.9.0",
